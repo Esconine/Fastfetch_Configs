@@ -25,7 +25,7 @@ rm -rf ~/.config/fastfetch && cp -r ~/Fastfetch-Config/fastfetch ~/.config/fastf
 > [!NOTE]
 > If you want to use your own Fastfetch logo follow these steps:
 >
-> 1. Delete the existing logo at "~/.config/fastfetch/logo/fastfetch.png":
+> 1. Delete the existing logo at "~/.config/fastfetch/logo/fastfetch.png" by running this command in the terminal:
 > 
 > ```
 > rm -rf ~/.config/fastfetch/logo/fastfetch.png
