@@ -1,5 +1,5 @@
-# Fastfetch Config
-A custom fastfetch config made by me
+# Minimalistic Fastfetch Config
+My custom and minimalistic fastfetch configuration. I hope you will like it ❤️
 
 <div align="center">
 
@@ -13,9 +13,24 @@ A custom fastfetch config made by me
 To install the fastfetch config just run in terminal:
 
 > [!WARNING]
-> This command will permanently delete your directory "~/.config/fastfetch". Please make sure you have a backup of it's data before running it
+> This command will permanently delete your "~/.config/fastfetch" directory. Please make sure you have a backup of it's data before running it
 
 ```
 git clone https://github.com/Esconine/Fastfetch-Config.git
-rm -rf ~/.config/fastfetch && cp -r ~/Fastfetch-Config/fastfetch ~/.config/fastfetch
+rm -rf ~/.config/fastfetch && cp -r ~/Fastfetch-Config/fastfetch ~/.config/fastfetch && rm -rf ~/Fastfetch-Config
 ```
+
+## Logo
+
+> [!NOTE]
+> If you want to use your own Fastfetch logo follow these steps:
+>
+> 1. Delete the existing logo at "~/.config/fastfetch/logo/fastfetch.png":
+> 
+> ```
+> rm -rf ~/.config/fastfetch/logo/fastfetch.png
+> ```
+>
+> 2. Move your image into the "~/.config/fastfetch/logo" directory and rename it to "fastfetch.png"
+
+![](fastfetch/logo/fastfetch.png)
