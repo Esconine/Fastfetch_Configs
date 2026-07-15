@@ -1,6 +1,10 @@
 {
     "logo": {
-        "source": "~/.config/fastfetch/logo/fastfetch.png", // or type your distro name in brackets: "arch"
+        "source": "~/.config/fastfetch/logo/fastfetch.png", // or type your distro name in brackets, for example: "source": "arch".
+        // If you want to use your own Fastfetch logo follow these steps:
+        // 1. Delete the existing logo at "~/.config/fastfetch/logo/fastfetch.png" by running this command in the terminal:
+        // rm -rf ~/.config/fastfetch/logo/fastfetch.png
+        // 2. Move your image into the "~/.config/fastfetch/logo" directory and rename it to "fastfetch.png"
         "height": 21,
         "width": 40,
         "padding": {
