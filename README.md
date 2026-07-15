@@ -10,5 +10,12 @@ A custom fastfetch config made by me
 
 ## Installation Guide
 
+To install the fastfetch config just run in terminal:
+
+> [!WARNING]
+> This command will permanently delete your directory "~/.config/fastfetch". Please make sure you have a backup of it's data before running it
+
 ```
 git clone https://github.com/Esconine/Fastfetch-Config.git
+rm -rf ~/.config/fastfetch && cp -r ~/Fastfetch-Config/fastfetch ~/.config/fastfetch
+```
