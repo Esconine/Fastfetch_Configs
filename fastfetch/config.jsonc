@@ -15,7 +15,7 @@
     "modules": [
         {
             "type": "custom",
-            "format": "                                 {#34}Hard{#35}ware"
+            "format": "                              \udb80\udf22  {#34}Hard{#35}ware"
         },
         {
             "type": "custom",
@@ -23,27 +23,27 @@
         },
         {
             "type": "host",
-            "key": " PC",
+            "key": " \udb80\udf22 PC",
             "keyColor": "blue"
         },
         {
             "type": "cpu",
-            "key": " CPU",
+            "key": " \uf4bc CPU",
             "keyColor": "blue"
         },
         {
             "type": "gpu",
-            "key": " GPU",
+            "key": " \udb80\udeb4 GPU",
             "keyColor": "blue"
         },
         {
             "type": "display",
-            "key": " Display",
+            "key": " \udb80\udf79 Display",
             "keyColor": "blue"
         },
         {
             "type": "memory",
-            "key": " Memory",
+            "key": " \uefc5 Memory",
             "keyColor": "blue"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "type": "custom",
-            "format": "                                 {#34}Soft{#35}ware"
+            "format": "                              \uf007  {#34}Soft{#35}ware"
         },
         {
             "type": "custom",
@@ -60,22 +60,22 @@
         },
         {
             "type": "os",
-            "key": " OS",
+            "key": " \uebc6 OS",
             "keyColor": "blue"
         },
         {
             "type": "de",
-            "key": " DE",
+            "key": " \uf108 DE",
             "keyColor": "blue"
         },
         {
             "type": "wm",
-            "key": " WM",
+            "key": " \udb84\udcac WM",
             "keyColor": "blue"
         },
         {
             "type": "lm",
-            "key": " LM",
+            "key": " \uf007 LM",
             "keyColor": "blue"
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "type": "custom",
-            "format": "                                   {#34}Ti{#35}me"
+            "format": "                                \uf4ab  {#34}Ti{#35}me"
         },
         {
             "type": "custom",
@@ -92,19 +92,19 @@
         },
         {
             "type": "packages",
-            "key": " Packages",
+            "key": " \uf4d3 Packages",
             "keyColor": "blue"
         },
         {
             "type": "disk",
-            "key": " OS Age",
+            "key": " \uf4ab OS Age",
             "folders": "/",
             "format": "{days} days",
             "keyColor": "blue"
         },
         {
             "type": "uptime",
-            "key": " Uptime",
+            "key": " \udb82\udd04 Uptime",
             "keyColor": "blue"
         },
         {
