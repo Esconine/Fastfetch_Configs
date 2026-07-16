@@ -16,6 +16,7 @@ To install the fastfetch config just run in terminal:
 > This command will permanently delete your "~/.config/fastfetch" directory. Please make sure you have a backup of it's data before running it
 
 ```
+sudo pacman -S ttf-jetbrains-mono-nerd
 git clone https://github.com/Esconine/Fastfetch-Config.git
 rm -rf ~/.config/fastfetch && cp -r ~/Fastfetch-Config/fastfetch ~/.config/fastfetch && rm -rf ~/Fastfetch-Config
 ```
