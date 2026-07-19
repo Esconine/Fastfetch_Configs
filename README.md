@@ -10,7 +10,7 @@ My custom and minimalistic fastfetch configuration. I hope you will like it â¤ï
 
 ## Installation Guide
 
-To install the fastfetch config just run in terminal:
+To install the fastfetch config just run in the terminal:
 
 > [!WARNING]
 > This command will permanently delete your "~/.config/fastfetch" directory. Please make sure you have a backup of it's data before running it
